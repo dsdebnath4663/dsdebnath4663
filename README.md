@@ -41,7 +41,7 @@ I enjoy creating scalable UI systems, reusable components, and real-world produc
 
 - **Bachelor of Technology (B.Tech) — Computer Science & Engineering (CSE)**  
   *Maulana Abul Kalam Azad University of Technology (MAKAUT), West Bengal (formerly WBUT)*  
-  **Sep 2021 – 2025**
+  **2021 – 2025**
 
 - **Diploma — Computer Science & Technology**  
   *All India Council for Technical Education (AICTE)*  
@@ -49,7 +49,7 @@ I enjoy creating scalable UI systems, reusable components, and real-world produc
   
  - **Secondary (Class 10) — West Bengal Board of Secondary Education (WBBSE)**  
   *West Bengal, India*  
-  **Year of completion: 2016**
+  **2015 - 2016**
  
 
 ---
