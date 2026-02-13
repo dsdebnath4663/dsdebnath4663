@@ -1,132 +1,138 @@
-# 👨‍💻 UI Developer Skills Dashboard (React • Angular • JavaScript)
+<!-- =========================
+     Debnath Saha • Portfolio
+     ========================= -->
 
-> A living dashboard of my UI engineering skills, toolset, and projects.  
-> **Focus:** Modern UI development, clean component architecture, API integration, and scalable frontend patterns.
+<h1 align="center">Debnath Saha</h1>
+<p align="center">
+  Full-Stack Engineer • React / Next.js • Java / Spring Boot • REST APIs • Problem Solver
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/dsdebnath4663">GitHub</a> •
+  <a href="https://www.linkedin.com/in/debnath-saha-190b44199/">LinkedIn</a> •
+  <a href="https://leetcode.com/u/dsdebnath4663/">LeetCode</a> •
+  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+</p>
 
-## ✅ Quick Snapshot
-
-- **Frontend:** JavaScript (ES6+), TypeScript (learning/using where applicable)
-- **Frameworks (UI):** React, Angular
-- **UI/UX:** Responsive layouts, reusable components, clean UX patterns
-- **API Integration:** REST APIs, auth flows, pagination/search patterns
-- **Backend Collaboration:** Works well with Node/Java APIs and structured DTOs
-- **Problem Solving:** LeetCode + DSA practice for strong logic
-
----
-
-## 📌 Pinned Repositories (Live Projects)
-
-### 🧠 Problem Solving
-- **LeetCode Solutions** — DSA practice, coding patterns, algorithmic thinking  
-  Repo: https://github.com/dsdebnath4663/LeetCodeSolutions
-
-### 🎓 Full Applications / Systems
-- **Learning Management System** — app-style project (UI + features)  
-  Repo: https://github.com/dsdebnath4663/learning-management-system
-
-- **Kids School** — school management style project (likely UI dashboards + flows)  
-  Repo: https://github.com/dsdebnath4663/kids-school
-
-### 🧩 Recruitment / Hiring Platforms
-- **Recruitment (Web App)** — recruitment-related project (UI flows, modules)  
-  Repo: https://github.com/dsdebnath4663/recruitment
-
-- **Recruite API** — backend/API project supporting recruitment features  
-  Repo: https://github.com/dsdebnath4663/recruite-api
-
-### 🌐 Social App
-- **Social Bridge** — social/community style application  
-  Repo: https://github.com/dsdebnath4663/social-bridge
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20HTML%20%7C%20CSS-blue" />
+  <img src="https://img.shields.io/badge/State-Redux%20%7C%20Context%20%7C%20RxJS-6f42c1" />
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot%20%7C%20Node.js-green" />
+  <img src="https://img.shields.io/badge/DB-SQL%20%7C%20Oracle%20%7C%20JDBC-orange" />
+</p>
 
 ---
 
-## 🧭 Skills Dashboard (Self-Assessment)
+## 👋 About Me
 
-| Area | Level |
+I’m a **Full-Stack Engineer** who builds clean, scalable web applications with strong UI/UX fundamentals and API-driven architecture.  
+I enjoy creating **reusable components**, **responsive dashboards**, and **production-ready backends** with structured APIs.
+
+- 📍 Kolkata, West Bengal, India  
+- 🔭 Currently building: Full-stack apps + improving system design + DSA
+- 💡 Interested in: performance, clean architecture, modern UI patterns, backend reliability
+- 🤝 Open to: Internship / Full-time / Freelance opportunities
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend**
+- React, Next.js, Redux, HTML5, CSS3, Responsive UI
+- Component-driven UI, forms, routing, state management
+
+**Backend**
+- Java, Spring Boot, Node.js
+- REST APIs, authentication flows, validation, error handling
+
+**Database**
+- SQL, Oracle DB, JDBC
+
+**Tools**
+- Git & GitHub, Postman, Debugging, Basic deployment workflows
+
+---
+
+## 🚀 Featured Projects
+
+> These are my highlighted repositories. (Pinned section on GitHub profile should match this.)
+
+### 🎓 Learning Management System (Full Stack)
+**Repo:** https://github.com/dsdebnath4663/learning-management-system  
+**What it includes**
+- Auth (Login/Register), dashboards, course catalog, enrollments
+- Notifications, profile settings, admin features (if applicable)
+**Tech:** React, Redux, Spring Boot, Oracle DB/JDBC, CSS/Bootstrap (as used)
+
+---
+
+### 🧑‍💼 Recruitment Platform (App + API)
+**Web App Repo:** https://github.com/dsdebnath4663/recruitment  
+**API Repo:** https://github.com/dsdebnath4663/recruite-api  
+**What it includes**
+- Recruitment workflows, CRUD screens, API integration
+- Structured endpoints, clean modules, reusable components
+
+---
+
+### 🌐 Social Bridge (Full Stack)
+**Repo:** https://github.com/dsdebnath4663/social-bridge  
+**What it includes**
+- Social-style UI flows, user interactions, modular structure
+
+---
+
+### 🏫 Kids School (Management App)
+**Repo:** https://github.com/dsdebnath4663/kids-school  
+**What it includes**
+- School management features, dashboards, forms, data lists
+
+---
+
+### 🧠 LeetCode Solutions (DSA)
+**Repo:** https://github.com/dsdebnath4663/LeetCodeSolutions  
+- Consistent problem solving, patterns, and fundamentals for interviews
+
+---
+
+## 🧩 What I Build (Fast)
+
+- ✅ Auth pages (Login/Register/Forgot)
+- ✅ Dashboard layout (sidebar/topbar)
+- ✅ CRUD modules (Create/Edit/List/Details)
+- ✅ Tables (search/filter/pagination)
+- ✅ API-driven UI (loading/empty/error states)
+- ✅ Reusable components (modal, inputs, toast, tabs)
+
+---
+
+## 📈 Skills Dashboard (Self Rating)
+
+| Skill | Level |
 |------|------|
-| JavaScript (ES6+) | █████████░ 8/10 |
-| UI Development Basics | █████████░ 8/10 |
-| React | ████████░░ 7/10 |
-| Angular | ███████░░░ 6/10 |
-| HTML/CSS Responsive UI | ████████░░ 7/10 |
-| API Integration (REST) | ████████░░ 7/10 |
-| Git & Collaboration | ████████░░ 7/10 |
-| Testing (Jest/Cypress) | █████░░░░░ 4/10 |
-| Performance Optimization | █████░░░░░ 4/10 |
-| Accessibility (a11y) | ████░░░░░░ 3/10 |
-
-> Update these bars anytime as your skill improves.
+| JavaScript | █████████░ 8/10 |
+| React / Next.js | ████████░░ 7/10 |
+| Redux | ███████░░░ 6/10 |
+| HTML / CSS | ████████░░ 7/10 |
+| Java / Spring Boot | ███████░░░ 6/10 |
+| SQL / Oracle | ███████░░░ 6/10 |
+| Git / GitHub | ████████░░ 7/10 |
 
 ---
 
-## 🧩 What I Can Build (UI Capability Checklist)
+## 🗺️ Roadmap (Next 30 Days)
 
-- [x] Login/Register pages + form validation
-- [x] Dashboard layout (sidebar + topbar)
-- [x] CRUD screens (list + create + edit + details)
-- [x] Tables with search + pagination
-- [x] Role-based navigation (menus based on user roles)
-- [x] Reusable UI components (buttons, modals, inputs)
-- [x] API-driven UI (loading/error/empty states)
+- [ ] Add screenshots + demo GIFs in top 2 repos
+- [ ] Add “How to Run Locally” steps in each README
+- [ ] Add validation + global error handling patterns in API
+- [ ] Add basic tests (frontend unit + API integration)
+- [ ] Improve UI polish (spacing, typography, consistent components)
 
 ---
 
-## 🧠 UI Engineering Principles I Follow
+## 📬 Contact
 
-- **Reusable components** over repeated UI
-- **Feature-based structure** (group files by feature/module)
-- **Consistent UI states:** loading / empty / error / success
-- **Clean separation:** UI ↔ state ↔ API layer
-- **Readable code** with meaningful naming and folder conventions
-
----
-
-## 🧪 Testing & Quality (Roadmap)
-
-| Type | Tools | Status |
-|------|------|--------|
-| Unit | Jest | ⏳ Planned |
-| UI/Component | React Testing Library | ⏳ Planned |
-| E2E | Cypress / Playwright | ⏳ Planned |
-
-**Targets**
-- [ ] Add unit tests for 2 key UI modules
-- [ ] Add E2E flow: login → dashboard → create record → list
-
----
-
-## 📅 Weekly Practice Tracker
-
-- [ ] Build 1 reusable component (React + Angular version)
-- [ ] Improve 1 repo screen (UI polish + error handling)
-- [ ] Add 1 API integration enhancement (pagination/search)
-- [ ] Solve 5 LeetCode problems
-- [ ] Write 1 short README improvement (setup + screenshots)
-
----
-
-## 🚀 Next 30 Days Roadmap
-
-### Week 1: UI Structure
-- [ ] Create a consistent dashboard layout component
-- [ ] Add reusable form field components
-
-### Week 2: Data UI
-- [ ] Table with pagination + search
-- [ ] Better loading/empty/error UX
-
-### Week 3: Architecture
-- [ ] Feature-based folder structure cleanup in 1 project
-- [ ] Standard API service layer (fetch/axios + interceptors)
-
-### Week 4: Quality
-- [ ] Add basic unit tests
-- [ ] Add accessibility + performance pass (basic)
-
----
-
-## 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/debnath-saha-190b44199/
 - GitHub: https://github.com/dsdebnath4663
-
+- LeetCode: https://leetcode.com/u/dsdebnath4663/
+- Email: YOUR_EMAIL@gmail.com
