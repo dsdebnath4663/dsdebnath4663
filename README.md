@@ -4,105 +4,158 @@
 
 <h1 align="center">Debnath Saha</h1>
 <p align="center">
-  Full-Stack Engineer • React / Next.js • Java / Spring Boot • REST APIs • Problem Solver
+  Full-Stack Engineer • Angular (TypeScript) • React / Next.js • Tailwind CSS • Java / Spring Boot • REST APIs
 </p>
 
 <p align="center">
   <a href="https://github.com/dsdebnath4663">GitHub</a> •
   <a href="https://www.linkedin.com/in/debnath-saha-190b44199/">LinkedIn</a> •
   <a href="https://leetcode.com/u/dsdebnath4663/">LeetCode</a> •
-  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+  <a href="mailto:dsdebnath4663@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20HTML%20%7C%20CSS-blue" />
-  <img src="https://img.shields.io/badge/State-Redux%20%7C%20Context%20%7C%20RxJS-6f42c1" />
-  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot%20%7C%20Node.js-green" />
-  <img src="https://img.shields.io/badge/DB-SQL%20%7C%20Oracle%20%7C%20JDBC-orange" />
+  <img src="https://img.shields.io/badge/Angular-TypeScript-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Strong-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-UI%20%26%20Design-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Next.js-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-2E7D32?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-REST%20%7C%20Auth%20%7C%20CRUD-6c757d?style=flat" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I’m a **Full-Stack Engineer** who builds clean, scalable web applications with strong UI/UX fundamentals and API-driven architecture.  
-I enjoy creating **reusable components**, **responsive dashboards**, and **production-ready backends** with structured APIs.
+I’m a **Full-Stack Engineer** focused on building **modern web applications** using **Angular + TypeScript**, **React/Next.js**, and **Tailwind CSS** with clean architecture and API-driven development.  
+I enjoy creating scalable UI systems, reusable components, and real-world products (healthcare, school, recruitment, LMS).
 
 - 📍 Kolkata, West Bengal, India  
-- 🔭 Currently building: Full-stack apps + improving system design + DSA
-- 💡 Interested in: performance, clean architecture, modern UI patterns, backend reliability
-- 🤝 Open to: Internship / Full-time / Freelance opportunities
+- 💼 Open to: Full-time / Internship / Freelance  
+- 🧠 Strengths: UI engineering + API integration + problem solving (DSA)
 
 ---
 
-## 🧰 Tech Stack
+## 🔑 Keywords (ATS / Search)
 
-**Frontend**
-- React, Next.js, Redux, HTML5, CSS3, Responsive UI
-- Component-driven UI, forms, routing, state management
+**Angular / TypeScript**
+- Angular 16/17+, Standalone Components, Angular CLI, Modules, Lazy Loading
+- TypeScript Generics, Interfaces, Types, Utility Types, Strict Typing, DTO Modeling
+- RxJS (Observable, Subject, BehaviorSubject), Operators (map, switchMap, debounceTime, distinctUntilChanged, catchError)
+- Angular Signals (basics), ChangeDetectionStrategy, TrackBy, Pipes, Guards, Resolvers
+- Reactive Forms, FormBuilder, Custom Validators, Async Validators
+- HttpClient, Interceptors, JWT Token Handling, Error Handling, Retry/Timeout Patterns
+- State Management: NgRx (basics), Services + RxJS Store Pattern
+- Component Architecture, Feature-based Folder Structure, Reusable UI Components
 
-**Backend**
-- Java, Spring Boot, Node.js
-- REST APIs, authentication flows, validation, error handling
+**UI / Tailwind CSS**
+- Tailwind CSS, Responsive Design, Mobile-first UI
+- Design systems, reusable layout components, grid/flex patterns
+- Modals, drawers, tabs, accordions, tables, pagination UI
+- Accessibility basics (a11y), keyboard navigation, ARIA awareness
 
-**Database**
-- SQL, Oracle DB, JDBC
+**React / Next.js (extra)**
+- React Hooks, Redux Toolkit, Next.js Routing, Component-driven UI
 
-**Tools**
-- Git & GitHub, Postman, Debugging, Basic deployment workflows
+**Backend (extra)**
+- Java, Spring Boot, REST APIs, DTOs, Validation, Exception Handling
+- SQL, Oracle, JDBC
 
 ---
 
 ## 🚀 Featured Projects
 
-> These are my highlighted repositories. (Pinned section on GitHub profile should match this.)
+### 🏥 Hospital Management System (HMS) — Angular + TypeScript + Tailwind (UI) + API Integration
+> A complete clinic/hospital workflow from **Login → Appointments → OPD → Billing → Patient Records → Pharmacy/Lab/IPD**.
 
-### 🎓 Learning Management System (Full Stack)
-**Repo:** https://github.com/dsdebnath4663/learning-management-system  
-**What it includes**
-- Auth (Login/Register), dashboards, course catalog, enrollments
-- Notifications, profile settings, admin features (if applicable)
-**Tech:** React, Redux, Spring Boot, Oracle DB/JDBC, CSS/Bootstrap (as used)
+**Highlights (What I built / implemented)**
+- ✅ **Authentication & Secure Access**
+  - Login UI with validation (Reactive Forms)
+  - Token-based session handling (JWT-ready pattern)
+  - Role-based screens/navigation (Admin/Doctor/Staff-ready structure)
+
+- ✅ **Appointments (End-to-End)**
+  - **Central integrated smart calendar** for doctor appointments
+  - Create/Reschedule/Cancel appointments (API-driven)
+  - Doctor availability & time-slot setup (“set up timings without hurdle”)
+  - Supports appointment intake via **IVR / app / online** concept (integrated booking flow design)
+  - **Waiting Room Queue** handling (instant queue updates design)
+  - Appointment statuses (e.g., Confirmed/Arrived/Completed/No-show) supported in UI state
+
+- ✅ **OPD Workflow (Paperless OPD)**
+  - From booking → payment → clinical data recording → prescriptions → lab reports
+  - Patient visit tracking and history view (“Patient Records / EMR” concept)
+  - Printed prescription support (document-style output flow planned/structured)
+
+- ✅ **Billing**
+  - Create bills, collect payments
+  - Printed receipt concept (brand-ready receipts)
+  - Payment recording + bill history screens (systematized billing workflow)
+
+- ✅ **Electronic Medical/Health Records (EMR/EHR)**
+  - Digitized patient records, visit history and clinical notes
+  - Structured tabs/sections for patient details (clean UX)
+
+- ✅ **Lab + Pharmacy + Inventory + IPD (Modules planned/structured)**
+  - Lab: sample collection → automated report generation → email/SMS reports (workflow design)
+  - Pharmacy: stock visibility, prescribing support, billing medicines
+  - Inventory/Store: purchase, distribute, track items
+  - In-Patient Management: beds, admissions, nursing station, discharge summary (module-ready layout)
+
+- ✅ **Security & Compliance Mindset**
+  - Confidentiality-first UI patterns
+  - “Secure data handling” design + international norms compliance awareness
+
+**UI/Tech Implementation (how I implemented)**
+- Angular + TypeScript: strict models/DTOs, reusable components, feature modules/standalone components
+- RxJS for async workflows (search, loading, cancellation, error handling)
+- Tailwind CSS for modern responsive UI (dashboard layout, tables, forms, modal patterns)
+- API integration pattern: service layer + interceptors (token + error mapping)
+
+> Repo: (Add your HMS repo link here when ready)  
+> Demo: (Add screenshot/GIF link here)
 
 ---
 
-### 🧑‍💼 Recruitment Platform (App + API)
-**Web App Repo:** https://github.com/dsdebnath4663/recruitment  
-**API Repo:** https://github.com/dsdebnath4663/recruite-api  
-**What it includes**
-- Recruitment workflows, CRUD screens, API integration
-- Structured endpoints, clean modules, reusable components
+### 🎓 Learning Management System
+Repo: https://github.com/dsdebnath4663/learning-management-system  
+- Auth + dashboard, course catalog, enrollments, notifications, profile management  
+- UI + backend integration concepts
 
 ---
 
-### 🌐 Social Bridge (Full Stack)
-**Repo:** https://github.com/dsdebnath4663/social-bridge  
-**What it includes**
-- Social-style UI flows, user interactions, modular structure
+### 🧑‍💼 Recruitment Platform
+Web App: https://github.com/dsdebnath4663/recruitment  
+API: https://github.com/dsdebnath4663/recruite-api  
+- Recruitment workflows, CRUD modules, API-driven screens
 
 ---
 
-### 🏫 Kids School (Management App)
-**Repo:** https://github.com/dsdebnath4663/kids-school  
-**What it includes**
-- School management features, dashboards, forms, data lists
+### 🌐 Social Bridge
+Repo: https://github.com/dsdebnath4663/social-bridge
+
+---
+
+### 🏫 Kids School
+Repo: https://github.com/dsdebnath4663/kids-school
 
 ---
 
 ### 🧠 LeetCode Solutions (DSA)
-**Repo:** https://github.com/dsdebnath4663/LeetCodeSolutions  
-- Consistent problem solving, patterns, and fundamentals for interviews
+Repo: https://github.com/dsdebnath4663/LeetCodeSolutions  
+- Strong problem-solving mindset and interview preparation
 
 ---
 
 ## 🧩 What I Build (Fast)
 
-- ✅ Auth pages (Login/Register/Forgot)
-- ✅ Dashboard layout (sidebar/topbar)
-- ✅ CRUD modules (Create/Edit/List/Details)
-- ✅ Tables (search/filter/pagination)
-- ✅ API-driven UI (loading/empty/error states)
-- ✅ Reusable components (modal, inputs, toast, tabs)
+- ✅ Auth pages (Login/Register/Forgot) with validation
+- ✅ Dashboards (sidebar/topbar) with responsive layout
+- ✅ Appointment calendars + slot booking UI
+- ✅ Waiting room queue UI (live-like updates using RxJS patterns)
+- ✅ CRUD modules with search/filter/pagination
+- ✅ Billing screens (invoice, payment entries, receipts)
+- ✅ Patient records (history, visits, EMR tabs)
 
 ---
 
@@ -110,24 +163,15 @@ I enjoy creating **reusable components**, **responsive dashboards**, and **produ
 
 | Skill | Level |
 |------|------|
-| JavaScript | █████████░ 8/10 |
-| React / Next.js | ████████░░ 7/10 |
-| Redux | ███████░░░ 6/10 |
-| HTML / CSS | ████████░░ 7/10 |
+| Angular + TypeScript | ████████░░ 8/10 |
+| RxJS + Async Patterns | ███████░░░ 7/10 |
+| Tailwind CSS + Responsive UI | ████████░░ 8/10 |
+| REST API Integration | ████████░░ 8/10 |
+| React / Redux | ███████░░░ 6/10 |
 | Java / Spring Boot | ███████░░░ 6/10 |
-| SQL / Oracle | ███████░░░ 6/10 |
+| SQL / Oracle / JDBC | ███████░░░ 6/10 |
 | Git / GitHub | ████████░░ 7/10 |
-
----
-
-## 🗺️ Roadmap (Next 30 Days)
-
-- [ ] Add screenshots + demo GIFs in top 2 repos
-- [ ] Add “How to Run Locally” steps in each README
-- [ ] Add validation + global error handling patterns in API
-- [ ] Add basic tests (frontend unit + API integration)
-- [ ] Improve UI polish (spacing, typography, consistent components)
-
+ 
 ---
 
 ## 📬 Contact
@@ -135,4 +179,5 @@ I enjoy creating **reusable components**, **responsive dashboards**, and **produ
 - LinkedIn: https://www.linkedin.com/in/debnath-saha-190b44199/
 - GitHub: https://github.com/dsdebnath4663
 - LeetCode: https://leetcode.com/u/dsdebnath4663/
-- Email: YOUR_EMAIL@gmail.com
+- Email: dsdebnath4663@gmail.com
+
